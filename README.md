@@ -27,6 +27,7 @@ While this project gives you a basic intro to the Python language, the program t
 Python specific resources
 - Online interpreter (useful for Chromebooks that can't install Python): https://repl.it/languages/python3
 - Python installer and documentation: https://www.python.org/
+- Python tutorial and language reference: https://www.w3schools.com/python/default.asp
 
 Free text editors:
 - Brackets.io (Windows/Mac): http://brackets.io/
