@@ -33,7 +33,7 @@ Free text editors:
 - Atom.io (Windows/Mac): https://atom.io/
 - Notepad++ (Windows): https://notepad-plus-plus.org/
 
-Additional project ideas:
+# Additional project ideas:
 - Build a rock, paper, scissors game
 - Build a dice rolling simulator
 - Build a "guess the number" game
